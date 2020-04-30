@@ -1,0 +1,2 @@
+rootProject.name='JBCOVIDKE'
+include ':app'
